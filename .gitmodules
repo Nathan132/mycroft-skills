@@ -10,3 +10,6 @@
 [submodule "mycroft-stock"]
 	path = mycroft-stock
 	url = https://github.com/mycroftai/skill-stock
+[submodule "mycroft-joke"]
+	path = mycroft-joke
+	url = https://github.com/mycroftai/skill-joke
